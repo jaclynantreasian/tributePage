@@ -1,0 +1,20 @@
+
+body {
+	margin-top: 5%;
+	text-align: center;
+	background-color: black;
+}
+
+li {
+	list-style-type: none;
+}
+
+.container-fluid {
+	padding: 5px 0 15px 0;
+	background-color: #C0C0C0;
+	max-width: 940px;
+}
+
+.header{
+	margin-top: 10%;
+}
